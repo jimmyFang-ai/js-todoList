@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+};
+
+ol, ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.bi.bi-heart ,  .bi.bi-heart-fill {
+    pointer-events: none;
+}

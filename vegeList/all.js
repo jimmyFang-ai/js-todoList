@@ -183,6 +183,7 @@ sortAdvanced.addEventListener("click", function (e) {
     // 判斷是否點擊到 上下鍵符號 i
     if (e.target.nodeName === "I") {
 
+       
         // 取出 data-price 的值
         let sortPrice = e.target.getAttribute("data-price");
 
