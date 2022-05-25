@@ -35,19 +35,21 @@
 
       <!-- 排序資料 -->
       <select id="js-select" class="sort-select border-secondary rounded mb-3 p-2 pe-4">
-        <option>排序篩選</option>
-        <option>依上價排序</option>
-        <option>依中價排序</option>
-        <option>依下價排序</option>
-        <option>依平均價排序</option>
-        <option>依交易量排序</option>
+        <option value="" selected="true" disabled="disabled">排序篩選</option>
+        <option value="上價">依上價排序</option>
+        <option value="中價">依中價排序</option>
+        <option value="下價">依下價排序</option>
+        <option value="平均價">依平均價排序</option>
+        <option value="交易量">依交易量排序</option>
       </select>
+      
       <table class="market table me-4">
         <!-- 進階sort 排序 -->
         <thead class="js-sort-advanced" id="sortAdvanced">
           <tr>
-            <th width="16.6%">作物名稱</th>
-            <th width="16.6%">
+            <th width="14.28%">作物名稱</th>
+            <th width="14.28%">市場名稱</th>
+            <th width="14.28%">
               <div class="inline-flex sort-advanced">上價
                 <span>
                   <i data-price="上價" data-sort="up" class="fas fa-caret-up"></i>
@@ -56,7 +58,7 @@
                 </span>
               </div>
             </th>
-            <th width="16.6%">
+            <th width="14.28%">
               <div class="inline-flex sort-advanced">中價
                 <span>
                   <i data-price="中價" data-sort="up" class="fas fa-caret-up"></i>
@@ -65,7 +67,7 @@
                 </span>
               </div>
             </th>
-            <th width="16.6%">
+            <th width="14.28%">
               <div class="inline-flex sort-advanced">下價
                 <span>
                   <i data-price="下價" data-sort="up" class="fas fa-caret-up"></i>
@@ -74,7 +76,7 @@
                 </span>
               </div>
             </th>
-            <th width="16.6%">
+            <th width="14.28%">
               <div class="inline-flex sort-advanced">平均價
                 <span>
                   <i data-price="平均價" data-sort="up" class="fas fa-caret-up"></i>
@@ -83,7 +85,7 @@
                 </span>
               </div>
             </th>
-            <th width="16.6%">
+            <th width="14.28%">
               <div class="inline-flex sort-advanced">交易量
                 <span>
                   <i data-price="交易量" data-sort="up" class="fas fa-caret-up"></i>
@@ -104,7 +106,6 @@
   </div>
 
 
-  <a href=""></a><a href=""></a><a href=""></a>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8"

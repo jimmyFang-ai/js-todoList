@@ -264,12 +264,16 @@ body {
 
 .sort-advanced {
   position: relative;
+  .fas:hover {
+    color: gray;
 }
 
 .fa-caret-up,
 .fa-caret-down {
   position: absolute;
   cursor: pointer;
+
+  }
 }
 .fa-caret-up {
   top: -2px;

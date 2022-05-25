@@ -290,8 +290,12 @@ body {
   position: relative;
 }
 
-.fa-caret-up,
-.fa-caret-down {
+.sort-advanced .fas:hover {
+  color: gray;
+}
+
+.sort-advanced .fa-caret-up,
+.sort-advanced .fa-caret-down {
   position: absolute;
   cursor: pointer;
 }
