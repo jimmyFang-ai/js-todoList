@@ -4,7 +4,7 @@
 
 
 
-## [蔬菜水果網](https://jimmyfang-ai.github.io/js-todoListvegeList)
+## [蔬菜水果網](https://jimmyfang-ai.github.io/js-todoListvegeList/)
 
 ----
 
