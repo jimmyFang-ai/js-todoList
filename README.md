@@ -105,3 +105,9 @@ console.log(min);
 
 
 ## 語法作用域(Lexical scope)
+
+
+
+[640 x 360](https://storage.googleapis.com/vue-course-api.appspot.com/veganfoodcoverimg/1653380347438.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=MPysfF6dGBG6Jy7cJ2TLni94YVkR%2BfOhypH6K6e9VKi7FdIx%2Bw2DWR38ZCVkLToxfevzZDOa2Qf3ztJL2oBCbYR2iEpK2%2B7IcJog2pb5AJNfX%2B3aPBii6cfB0iW9MeKBamIBUhFpk9EVr%2FDJM1HwELlDlWjTjF2gFNMF2D8ipJO%2BV8i4ggaJQsAo0t0ekuc4epDuKWsCH98s4x9SPQOJDaeCaKcC5pJ9j6zGCMk2gL8Gz1p0aT%2Fuy6JskKUlN8QS8nhPg%2BrstFcGPxDzUbGw1Jqwp98vzTQNkw0A5212XjK9TvxmRYB8VeID1Wb9H3o6St7uM3zkDQh1Wk%2BCphaKJg%3D%3D)
+
+[1897 x 991](https://storage.googleapis.com/vue-course-api.appspot.com/veganfoodcoverimg/1653380442919.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=JUrzuhz0xUtp3uupsq94efP1DcFsAP2L%2Fq%2FbM6Bocd6hrFp9AUKYkG7stV8raALO6bPjUFaV%2FPj5mAUf6FOw5fXsKW5PhXdg1LdG%2FsCLKAaVXzbHGMIZHxhaBWtkoBd68Q94g1r4LV7o2zHz9nvHmQSlCbe0JN2Oh58qaYTCHDq9udqYuyJ3RxZeDMZ8q3VOrG7ca39123x8nKpld2gBj7ZTH%2B%2BYR2uK27bbquK4nF%2BJgmir0AhD%2F%2BCQJdI3SIGT1lnMMgkPwtWLXz5nninsDBlHpfANZAThryUAzAWg7bMoAk50s8cawC3XPORPPd8HGammhYGMBlu4wSvt54gmow%3D%3D)

@@ -351,4 +351,20 @@ input[type="text"]::placeholder {
 .checkbox input:checked ~ span::after {
   opacity: 1;
 }
+
+.txet-center {
+  text-align: center;
+}
+
+.p-4 {
+  padding: 12px;
+}
+
+.text-danger:hover {
+  color: red;
+}
+
+.d-none {
+  display: none;
+}
 /*# sourceMappingURL=all.css.map */
